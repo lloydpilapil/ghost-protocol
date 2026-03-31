@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Session data (keep structure, ignore runtime content)
+.ghost-protocol/log/*.md
+.ghost-protocol/sessions/*.md
+.ghost-protocol/decisions/inbox/*.md
