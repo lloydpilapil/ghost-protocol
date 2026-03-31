@@ -247,6 +247,30 @@ Edit `routing.md` to map your project's modules and work types to specific agent
 - Multi-agent coordination model inspired by [Squad](https://github.com/bradygaster/squad) by Brady Gaster
 - NASA Mission Control naming convention from Squad
 
+## Version History
+
+### v1.0.0 — 2026-03-31
+**Initial Release — "Silent Launch"**
+- 8 named specialist agents (Flight, EECOM, FIDO, Procedures, PAO, CAPCOM, RETRO, Scribe)
+- 9 thread execution patterns (Base, Parallel, Chain, Long, Big, Fusion, Zero, Review, Status)
+- Dual routing system (Agent + Thread Pattern)
+- Core Four quality framework (Context, Model, Prompt, Tools)
+- Persistent agent memory (charter + history per agent)
+- Team ceremonies (Design Review, Retrospective)
+- Shared decisions system with inbox workflow
+- GitHub Copilot integration via `.github/copilot-instructions.md`
+- Claude Code integration via `.claude/commands/` slash commands
+- One-command installer (`install.sh`)
+- Next.js landing page with Tailwind 4
+
+### Roadmap
+- SDK-first mode (programmatic team definition via TypeScript config)
+- Interactive shell for agent communication
+- Session replay from execution logs
+- Agent performance analytics dashboard
+- Plugin system for custom thread patterns
+- Multi-repo support with shared agent teams
+
 ## License
 
 MIT
