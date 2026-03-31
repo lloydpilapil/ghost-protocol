@@ -21,7 +21,7 @@ export default function Install() {
         <FadeIn className="max-w-[600px] mx-auto">
           <Terminal title="terminal">
             <Prompt>
-              git clone https://github.com/nicholaspilapil/ghost-protocol.git
+              git clone https://github.com/lloydpilapil/ghost-protocol.git
             </Prompt>
             <Prompt>cd ghost-protocol</Prompt>
             <Prompt>chmod +x install.sh</Prompt>

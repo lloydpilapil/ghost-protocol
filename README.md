@@ -19,7 +19,7 @@ Ghost Protocol combines the structured execution patterns of [Thread Engineering
 ### Install into your project
 
 ```bash
-git clone https://github.com/nicholaspilapil/ghost-protocol.git
+git clone https://github.com/lloydpilapil/ghost-protocol.git
 cd ghost-protocol
 chmod +x install.sh
 ./install.sh /path/to/your/project

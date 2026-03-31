@@ -39,7 +39,7 @@ export default function Hero() {
               Get Started
             </a>
             <a
-              href="https://github.com/nicholaspilapil/ghost-protocol"
+              href="https://github.com/lloydpilapil/ghost-protocol"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3.5 border border-ghost text-ghost text-[13px] font-semibold tracking-wider uppercase hover:bg-ghost-dim transition-colors"

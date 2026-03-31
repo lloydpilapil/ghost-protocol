@@ -7,7 +7,7 @@ const links = [
   { href: "#core-four", label: "Core Four" },
   { href: "#install", label: "Install" },
   {
-    href: "https://github.com/nicholaspilapil/ghost-protocol",
+    href: "https://github.com/lloydpilapil/ghost-protocol",
     label: "GitHub",
     external: true,
   },
