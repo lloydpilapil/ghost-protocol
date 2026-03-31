@@ -243,7 +243,7 @@ Edit `routing.md` to map your project's modules and work types to specific agent
 
 ## Credits
 
-- Thread execution patterns adapted from [Thread Engineering Kit](https://github.com/nicholaspilapil/thread-engineering-kit) by [Pixelmojo](https://pixelmojo.io)
+- Thread execution patterns adapted from [Thread Engineering Kit](https://github.com/nicholaspilapil/thread-engineering-kit) by [Lloyd Pilapil](https://www.lloydpilapil.com/)
 - Multi-agent coordination model inspired by [Squad](https://github.com/bradygaster/squad) by Brady Gaster
 - NASA Mission Control naming convention from Squad
 
